@@ -1,0 +1,45 @@
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School\School\bin\Debug\net6.0\School.exe
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School\School\bin\Debug\net6.0\School.deps.json
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School\School\bin\Debug\net6.0\School.runtimeconfig.json
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School\School\bin\Debug\net6.0\School.dll
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School\School\bin\Debug\net6.0\School.pdb
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School\School\obj\Debug\net6.0\School.csproj.AssemblyReference.cache
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School\School\obj\Debug\net6.0\School.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School\School\obj\Debug\net6.0\School.AssemblyInfoInputs.cache
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School\School\obj\Debug\net6.0\School.AssemblyInfo.cs
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School\School\obj\Debug\net6.0\School.csproj.CoreCompileInputs.cache
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School\School\obj\Debug\net6.0\School.dll
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School\School\obj\Debug\net6.0\refint\School.dll
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School\School\obj\Debug\net6.0\School.pdb
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School\School\obj\Debug\net6.0\School.genruntimeconfig.cache
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School\School\obj\Debug\net6.0\ref\School.dll
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School 2\School\bin\Debug\net6.0\School.exe
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School 2\School\bin\Debug\net6.0\School.deps.json
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School 2\School\bin\Debug\net6.0\School.runtimeconfig.json
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School 2\School\bin\Debug\net6.0\School.dll
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School 2\School\bin\Debug\net6.0\School.pdb
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School 2\School\obj\Debug\net6.0\School.csproj.AssemblyReference.cache
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School 2\School\obj\Debug\net6.0\School.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School 2\School\obj\Debug\net6.0\School.AssemblyInfoInputs.cache
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School 2\School\obj\Debug\net6.0\School.AssemblyInfo.cs
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School 2\School\obj\Debug\net6.0\School.csproj.CoreCompileInputs.cache
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School 2\School\obj\Debug\net6.0\School.dll
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School 2\School\obj\Debug\net6.0\refint\School.dll
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School 2\School\obj\Debug\net6.0\School.pdb
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School 2\School\obj\Debug\net6.0\School.genruntimeconfig.cache
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School 2\School\obj\Debug\net6.0\ref\School.dll
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School 3\School\bin\Debug\net6.0\School.exe
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School 3\School\bin\Debug\net6.0\School.deps.json
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School 3\School\bin\Debug\net6.0\School.runtimeconfig.json
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School 3\School\bin\Debug\net6.0\School.dll
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School 3\School\bin\Debug\net6.0\School.pdb
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School 3\School\obj\Debug\net6.0\School.csproj.AssemblyReference.cache
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School 3\School\obj\Debug\net6.0\School.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School 3\School\obj\Debug\net6.0\School.AssemblyInfoInputs.cache
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School 3\School\obj\Debug\net6.0\School.AssemblyInfo.cs
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School 3\School\obj\Debug\net6.0\School.csproj.CoreCompileInputs.cache
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School 3\School\obj\Debug\net6.0\School.dll
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School 3\School\obj\Debug\net6.0\refint\School.dll
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School 3\School\obj\Debug\net6.0\School.pdb
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School 3\School\obj\Debug\net6.0\School.genruntimeconfig.cache
+C:\Users\sechi\OneDrive\Рабочий стол\projects 2\School 3\School\obj\Debug\net6.0\ref\School.dll
